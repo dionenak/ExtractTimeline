@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 25 19:04:37 2019
-
-@author: dio
-"""
 
 import re
 import nltk
